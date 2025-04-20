@@ -34,9 +34,7 @@ STEP 5: Run the Spring Boot Application
         From the project folder: 
         Command : mvn clean install 
                   ![image](https://github.com/user-attachments/assets/1b39a258-20e7-4dbf-a000-3d7cd9457f4a)
-
                   mvn spring-boot:run
-                  ![image](https://github.com/user-attachments/assets/3e823c98-d77b-4a20-83af-1720b3ae1cc2)
 
 # After running app test the app by
 Opening this url in your browser: http://localhost:8080
